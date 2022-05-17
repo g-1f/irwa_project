@@ -1,0 +1,204 @@
+
+Genevieve Cunningham -- Marketing Communications Manager
+Welcome everyone to the MPS Second Quarter 2021 Earnings Webinar. Please note that this webinar is being recorded and will be archived for one year on our Investor Relations page at www.MonolithicPower.com. My name is Genevieve Cunningham and I will be the moderator for this webinar. Joining me today are Michael Hsing, CEO and Founder of MPS; and Bernie Blegen, VP and CFO.
+During this webinar, we will discuss our Q2 2021 financial results and guidance for Q3 2021, followed by Q&A session. Analysts, you are currently muted. [Operator Instructions]
+In the course of today's webinar, we will make forward-looking statements and projections that involve risk and uncertainty, which could cause results to differ materially from management's current views and expectations. Please refer to the Safe Harbor statement contained in the earnings release published today. Risks, uncertainties, and other factors that could cause actual results to differ are identified in the safe harbor statements contained in the Q2 earnings release and in our SEC filings, including our Form 10-K filed on March 1, 2021, and our Form 10-Q filed on May 10, 2021, which are accessible through our website www.MonolithicPower.com. MPS assumes no obligation to update the information provided on today's call. We will be discussing gross margin, operating expense, R&D, and SG&A expense, operating income, interest and other income, net income, and earnings on both the GAAP and a non-GAAP basis. These non-GAAP financial measures are not prepared in accordance with GAAP and should not be considered as a substitute for or superior to measures of financial performance prepared in accordance with GAAP. A table that outlines the reconciliation between the non-GAAP financial measures to GAAP financial measures is included in our earnings release, which we have filed with the SEC. I would refer investors to the Q2 2020, Q1 2021, and Q2 2021 releases, as well as to the reconciling tables that are posted on our website.
+
+ 
+
+
+
+
+Now, I would like to turn the call over to Bernie Blegen.
+
+Bernie Blegen -- Vice President & Chief Financial Officer
+Thanks, Gen. MPS achieved record second-quarter revenue of $293.3 million, 15.3% higher than the first quarter of 2021 and 57.5% higher than the second quarter of 2020. This broad-based, year-over-year revenue growth was a result of our diversified growth strategy, technological innovation, and investment in production capacity.
+Turning now to our second quarter 2021 revenue by market. Computing and storage revenue of $87.7 million increased 30% from the first quarter of 2021. The sequential revenue improvement reflected increased demand and market share gains for servers and data centers and notebooks. Computing store -- computing and storage revenue represented 29.9% of MPS' second quarter 2021 revenue compared with 34.4% in the second quarter of 2020. Second-quarter consumer revenue of $76.1 million increased 14.9% from the first quarter of 2021. The sequential quarterly revenue increase reflected earlier than normal sales of gaming console products. Consumer revenue represented 25.9% of MPS' second quarter 2021 revenue compared with 25.6% in the second quarter of 2020. Second-quarter automotive revenue of $48.7 million increased 8.5% from the first quarter of 2021, primarily due to increased sales of infotainment products. Second-quarter 2021 revenue was up 173.9% year-over-year. Automotive revenue represented 16.6% of MPS' second quarter 2021 revenue compared with 9.5% in the second quarter of 2020.
+
+ 
+
+
+
+
+Second-quarter of 2021 industrial revenue of $43.3 million increased 8.9% from the first quarter of 2021, reflecting increased sales of products for power source applications. Industrial revenue represented 14.8% of our total second quarter 2021 revenue compared with 14.3% in the second quarter of 2020. Second-quarter 2021 communications revenue of $37.5 million was up 3.9% from the first quarter of 2021. Most of the sequential revenue increase was due to higher product sales for networking and wireless applications. Communications sales represented 12.8% of our total second quarter 2021 revenue compared with 16.2% in the second quarter of 2020. Our sustainable above-market growth is based on the following. We have and are continuously investing in the expansion and diversification of our supply chain. We accelerated the release of advanced products and solutions based on our new technologies. Three, we have gained increased acceptance of our solutions with first-tier customers globally. And four, we continue to diversify and support a wider number of end-product applications. With our planned capacity expansion in place and as we release more parts into production, we are well-positioned to accelerate our future revenue growth.
+Moving now to a few comments on gross margin. GAAP gross margin was 56%, 60 basis points higher than the first quarter of 2021 and 90 basis points higher than the second quarter of 2020. Our GAAP operating income was $60.6 million compared to $46.1 million reported in the first quarter of $2021, and $28.0 million reported in the second quarter of 2020. Non-GAAP gross margins in the second quarter of 2021 was 56.3%, up 50 basis points from the gross margin reported for the first quarter of 2021 and 60 basis points higher than the second quarter from a year ago. The increase in non-GAAP gross margin as a percent of revenue reflected lower proportional overhead costs. Our non-GAAP operating income was $94.9 million compared to $75.8 million, reported in the prior quarter. And $53.0 million reported in the second quarter of 2020, representing a 79% year-over-year increase in operating income.
+Let's review our operating expenses. Our GAAP operating expenses were $103.6 million in the second quarter of 2021 compared with $95.0 million in the first quarter of $2021 and $74.6 million in the second quarter of 2020. Our non-GAAP second quarter 2021 operating expenses were $70.3 million, up from the $66.2 million we spent in the first quarter of 2021 and up from the $50.7 million reported in the second quarter of 2020. The different between non-GAAP operating expenses and GAAP operating expenses for the quarters discussed here are stock compensation expense and the income or loss on an unfunded, deferred compensation plan. The second quarter of 2021 total stock compensation expense, including approximately $885,000 charged to cost of goods sold was $32.1 million compared with $28.6 million recorded in the first quarter of 2021.
+Switching to the bottom line. Second-quarter 2021 GAAP net income was $55.2 million or $1.16 per fully diluted share compared with $45.4 million or $0.95 per share in the first quarter of 2021 and $30.2 million or $0.64 per share in the second quarter of 2020. Q2 non-GAAP net income was $86.5 million or $1.81 per fully diluted share compared with $69.5 million or $1.46 per share in the first quarter of 2021 and $50.6 million or $1.08 per share in the second quarter of 2020. Fully diluted shares outstanding at the end of Q2 2021 were $47.8 million. Now, let's look at the balance sheet. Cash, cash equivalents and investments were $672.9 million at the end of the second quarter of 2021 compared to $641.6 million at the end of the first quarter of 2021. For the quarter, MPS generated operating cash flow of about $96.9 million compared with Q1 2021 operating cash flow of $77.1 million. Second-quarter 2021 capital spending totaled $39.3 million.
+
+ 
+
+
+
+
+Accounts receivable ended the second quarter of 2021 at $77.6 million, representing 24 days of sales outstanding, which was six days lower than the 30 days reported at the end of the first quarter of 2021 and three days lower than the 27 days reported in the second quarter of 2020. Our internal inventories at the end of the second quarter of 2021 were $177.3 million, up from $175.2 million at the end of the first quarter of 2021. Days of inventory of 125 days at the end of the second quarter of 2021 were 16 days lower than at the end of the first quarter of 2021. Historically, we have calculated days of inventory on hand as a function of the current quarter revenue. We believe comparing current inventory levels with following quarter's revenue provides a better economic match. On this basis, you can see days of inventory of 117 days at the end of the second quarter of 2021, were seven days lower than the 124 days at the end of the first quarter of 2021 and two days lower than the 119 days at the end of the second quarter of 2020.
+I would now like to turn to our outlook for the third quarter of 2021. We are forecasting Q3 revenue in the range of $309 million to $321 million. Gross margin on both a GAAP and non-GAAP basis is expected to include a one-time benefit from a $4 million litigation settlement. Including this benefit, GAAP gross margin will be in the range of 57.3% to 57.9% and non-GAAP gross margin will be in the range of 57.6% to 58.2%. Excluding this one-time event, non-GAAP gross margin will be in the range of 56.3% to 56.9%. Total stock-based compensation expense should be in the range of $31.2 million to $33.2 million, including approximately $950,000 that would be charged to cost of goods sold. GAAP, R&D, and SG&A expenses should be between $104.1 million and $108.1 million. Non-GAAP R&D and SG&A expenses will be in the range of $73.9 million to $75.9 million. Litigation expense should range between $2.3 million and $2.7 million. Interest income is expected to range from $1.0 million to $1.4 million. Fully diluted shares to be in the range of 47.4 million to 48.4 million shares.
+In conclusion, with our planned capacity expansion in place and as we release more parts into production, we are well-positioned to accelerate our future revenue growth.
+I'll now open up the webinar for questions.
+Questions and Answers:
+ 
+Genevieve Cunningham -- Marketing Communications Manager
+Thank you, Bernie. Analysts, I would now like to begin our Q&A session [Operator Instructions] Our first question comes from Tore Svanberg of Stifel. Tore, your line is now open.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Yes. Thank you, Michael, Bernie. Congrats again on another strong and record quarter. I was hoping you could update us on your capacity plans? I mean, I know you've done a pretty good job here in the last 18 months. Your inventories seem to be in good shape, perhaps a bit at the lower end. But yeah, maybe you could help us understand a little bit more what you specifically are doing on the capacity side?
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Thanks, Tore. Our capacity is that as always in the past three years or four years and we keep expanding. And now, we continue that. However, we do have a capacities and have over $2 billion and before the middle of next year. So we have enough capacity for us to grow. And then now, we have just qualified more product and released to -- to productions and ultimately -- and in our customers' hand.
+Bernie Blegen -- Vice President & Chief Financial Officer
+And at the expense of repeating ourselves, Tore, you recall that last year, we brought out the 12-inch fab, and this year we've brought up a 8-inch fab, which is already contributing to inventory. So, in both cases, what we're continuing to do is expand out by qualifying more parts so that we will be able to meet the $2 billion level by the middle of next year.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Very good. Thank you for that. And your cash balance has doubled here the last couple of years and it's now at $670 million. Obviously, it's a luxury you should have but what do you intend to do with that cash? Because obviously you don't need that much, so do you plan to return it more back to shareholders? Are you potentially looking at M&A? And the reason I'm asking this is because it's so high, now, right? I mean I know historically you've grown your business organically, but it's so high now that I just have to ask the question what you intend to do with it.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+That's a -- that's a good question. Okay. As a company, I keep saying that we're transforming the company from a semiconductor to a more solution providers. And so, we can utilize the cash much better than we can in the past. And the strategy is still to -- again, we will buy in tucking technology companies which comparable to MPS revenues, MPS as a general market coverage. So on the other hand, we are also consistently raising dividend and that's our strategy. But we are not excluding buy -- of buyback shares.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Great. Thank you very much. I'll be disciplined and jump back in line. Thank you.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Quinn Bolton of Needham. Quinn, your line is now open.
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Hey, guys. Hope you can hear me? But let me echo my congratulations on the strong revenue and the very nice gross and operating margins. Bernie, I guess you teased us there at the end of your script saying that you've got the capacity now to support an acceleration in revenue growth. If I look at revenue last year, you did about 35% growth, looks like this year you might do better than that. I'm just trying to interpret, when you talk about an acceleration in revenue growth, what -- what should we read into that?
+Bernie Blegen -- Vice President & Chief Financial Officer
+Yeah, I think that you're familiar with our model, which is to outperform the industry by 10 percentage points to 15 percentage points. And obviously, that's a model, that's a guideline. And there are certain periods where we have the right factors, both strategically as well as from a market perspective that have allowed us to do better and sometimes not as well as that model. So for example, if you look at last year's results, you could argue that at 34.5% growth that we exceeded the market which was right about 5% to 8% depending on what you're looking at, but somewhere in the neighborhood of 15 percentage points, 17 percentage points. And so, we look at that as well above our model. In the current year, obviously, we only guide to Q3, but it's not unrealistic to expect that within the range of possibilities that we could match that performance, or in fact do just a little bit better. So what we're trying to observe here is that in this two-year, three-year period, we're actually benefiting from a lot of factors that have us exceeding what our normal model is.
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Great. Thanks for that additional color. Bernie, I also wanted to ask on the compute and storage business up 30% sequentially. I think you mentioned that it was share gains in both servers as well as notebooks. On the notebook side, I thought you already had pretty high share at the high end of the notebook market. So I'm wondering if you could comment, are you starting to see share gains and maybe more mainstream or even low-end or Chromebooks on the notebook side? And is there any notable areas of share gains on the servers? Thank you.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yes. So, we do have some share gain in across the board in the notebook market segment. As our technologies advance and which is lower the cost. Our by-size [Phonetic] become much smaller so the cost, the lower costs allow MPS enters more lower notebooks segment.
+Bernie Blegen -- Vice President & Chief Financial Officer
+And then, as far as server, you know, we've been fairly consistent in articulating our strategy as far as being able to grow our market position with each succeeding next-generation, particularly Intel and AMD products. Not limited to that though, but also on 48-volt and with GPUs. So it really expresses the point that we're branching up in share gains within the Intel family, but also branching out into these other opportunities.
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Great. Thank you and congrats again.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Thank you.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Rick Schafer of Oppenheimer. Rick, your line is now open.
+Rick Schafer -- Oppenheimer & Co. Inc. -- Analyst
+Thank you and I'll add my congratulations. It's -- just kind of keep amazing everybody. I think I'll ask one more capacity question, if that's OK? And it's coming from a spending kind of standpoint. Can you, Bernie, maybe remind us what the outlook is for kind of spending, just as a general rule, as a percent of revenue? Maybe starting next year once all the new capacity is installed? And I mean, I think you're getting so many questions because when everybody sees the kind of growth you guys are putting up and it's awesome that you have $2 billion in capacity onboard by this time next year. But at this rate, it's only in a couple of years, right? Where you're going to be bumping your head on buy. So, I'm curious because how soon would you have to look to begin ramping incremental capacity again? And what might that impact be on spending? I'm curious, what like, just hypothetically, in two years, three years time, if you're at $2 billion topline, like what would gross margin look like, for instance?
+Bernie Blegen -- Vice President & Chief Financial Officer
+Rick, thank you and a good question. Something that's really important to comment on here is that a lot of companies and a lot of analysts and a lot of investors are focused on capacity as if this is a new aspect of the semiconductor business. In fact, capacity is something that we have been managing for the 10 years that I've been here and before that. It's an integral component to our growth strategy. And so, the way that we've been doing it is sequentially, adding new fabs and also assembly houses, and testing capacity alongside of that to accommodate, to be in front of what our expected revenue growth. So while we have made a public comment on the fabs that we've invested in, to date, we are still continuing on with ongoing relationships in order to secure more fab capacity for the future in order to accommodate that growth beyond $2 billion.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, as I said earlier, so now we are keep expanding and we will never stop. But sometimes faster, other ones slow -- other times it’s slower. Again, other than the capacities, physical capacity itself, we have to increase a lot of headcounts and the MPS is very, very lean. And so we -- how we -- we're well hired now. We are hiring lot of people.
+Rick Schafer -- Oppenheimer & Co. Inc. -- Analyst
+Thanks. Sorry, I was having some trouble on my end. Thanks, Michael, and thanks, Bernie. Quick question on auto, if I could? I mean, by my math, it's on track to maybe grow sort of in the 80% or better range this year for you guys. I mean, in truth, how much of that is being either directly or indirectly limited by supply and if you could give a sense of what growth could it be or talk about it -- maybe demand that's pushed and how that ultimately would show up in the model say next year. I don't know if you could maybe quantify or talk about your auto backlog and maybe where it is today?
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+I -- or maybe Bernie can [Indecipherable] This year you said -- you mentioned that whether the auto -- automotive product is limited by the capacity something? And the answer is, it's not as much as other segment because automotive is a company, they give us long lead times. And so, we prepared in the last year. The last year didn't -- our customer didn't consume that many of our products, again and so, it all translated to this year's. And so, we'll be able to ship them now.
+Bernie Blegen -- Vice President & Chief Financial Officer
+But one of the aspects of automotive that's getting a lot of attention in the press has to do with the fact of electronic component shortages that are shutting down plants, limiting their ability in order to kit a car and put it somewhere. And as Michael just said, we're actually not capacity constrained there. We are meeting all demand from them. And what's been interesting is one of the reasons that automotive got into this bind is because they were working with a just-in-time inventory model. And I think that they've learned from that that when the parts, the electronic components are available that they will stock them even though they don't have a complete kit to build the car. Now, in our conversations and feedback that we're getting is they're actually only trying to satisfy real demand but that is the timing of when the build plan, when they will have the complete kit that they can then build the cars.
+So, it's something that we want to monitor because there has been no change in ordering pattern or a shipment schedule versus expectations because of the other limitations in automotive.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, I might as well add again, about a year and a year and a half ago, our inventory was at all-time high. And that was one of the reasons that why we do that, because we were a newcomer in automotive industries. Like, I mean, even though with this type of recurring revenues, we are still in a very, very little on the market -- and a market percentage of the market. And so, it's a clear, as a newcomer and you don't want to upset the customers, okay. And then, you don't have a product. So, as all these -- as a lack of what we do are to -- all these are key customers. We have inventory even though don't have a clear forecast. And so, now is have really benefited us and we gained lot more design win activities. And because our competitor couldn't -- cannot ship a product.
+Rick Schafer -- Oppenheimer & Co. Inc. -- Analyst
+Got it. Thanks for the color.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Okay. All right.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Ross Seymore of Deutsche Bank. Ross, your line is now open.
+Our next question is from William Stein of Truist. William, your line is now open.
+William Stein -- Truist Securities, Inc. -- Analyst
+Great. Thanks for taking my question. Hope you can hear me. With regard to -- first sort of a maintenance question. With regard to your capacity and inventory, which you've already explained quite a bit about on this call, are you supply constrained at this time? Are you able to meet all the demand, whether it's upside or maybe customers stretching and trying to build a bit of inventory? Or are you in fact capacity constrained and are lead times extended as you're communicating them to customers?
+And then I have a bigger question, more sort of strategic question after that.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, let me explain that way. And again, we have a less capacity constrained in the compare like a half-year ago also. And how -- however as the customers -- and when you call after you qualify all of these new fabs and we have a month or a couple of months delayed of qualifying these product. And to qualifying the fab, it's not exactly a science, like I mean, you use different supply, different equipments, like I mean, different materials, and all the problem, all the -- these issue comes to our -- comes -- have a effect on how you qualify products in the end. So, and this time, OK, we just have to release a lot of new product, a lot of existing product from different fabs. And so, it's kind of -- to answer your question, yeah, it is that kind of a constraint. We have a lot more orders and now we can fulfills, and like I mean -- but just only a couple of months late.
+Bernie Blegen -- Vice President & Chief Financial Officer
+And again, what we're trying to do here is make sure that we're servicing real demand and not building up inventory either in the channel or on our customer shelves. So what we've done is we've actually have very transparent relationships with our customers so that we make sure that we are in touch with their business, sufficient to be able to make those trade-offs.
+William Stein -- Truist Securities, Inc. -- Analyst
+Great, thanks. And then the follow-up if I can, or the more strategic question. Michael, you referred to this transition from a semi-company to a technology solutions company, and it's something I've written about, about specifically the transition from semi devices to modules. Any quantification around this? And perhaps, it relates to the e-commerce strategy as well? Any update in that area would be very helpful. Thank you.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, thanks for asking for that. That pressure now is overwhelming by the revenue growth and the Company. And not only from analyst, from our side and the Company, inside, our Company's overwhelming by the revenue growth, the allocations that -- and the product allocations and a lot of strategic things, like and as are less pronounced and announced. And again -- but the module, you're absolutely right. Module business is for solutions, as a solution. Transform into a module company as we transforming -- we're transitioning from a semiconductor to a solutions company. And e-commerce, we have our teams. And now we finally, we have organized like a product line. And the -- I know the activities, in the last quarter also, it's quadrupled. And so, the revenue is still small but is in the millions of dollars. Okay. I mean, it's more than a million dollars, like I mean, somewhere to $30 million, $40 million --
+Bernie Blegen -- Vice President & Chief Financial Officer
+With the modules --
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, so, yeah, with the module in this, I guess, yeah. And it's growing as a record in about five years ago -- three years ago, it's almost zero, yeah. And four years ago, almost zero. And OK, then we started that. And so, we will continue to focus on that. And so, that I truly believe that that's our future.
+William Stein -- Truist Securities, Inc. -- Analyst
+Thanks and congrats.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Thank you.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Joshua Buchalter of Cowen. Joshua, your line is now open.
+Joshua Buchalter -- Cowen and Company, LLC -- Analyst
+Hey, guys. Congrats on the results and thanks for taking my question. Gross margins in both the print and the guide were meaningfully higher than your usual 10 basis point to 20 basis points trajectory. Can you elaborate on the key drivers of the leverage there? And I guess, speak to the sustainability. Was it driven by mix or something on the cost side, getting wafers through -- recently around fabs? Thanks.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Sure. I think that we've discussed in the past that again it's our model is that we want to be able to grow gross margin at 10 basis points to 20 basis points, sequentially, over the long haul. And we've demonstrated very good consistency in being able to do that, but much like I was describing before, this is an unusual period of growth for the Company, both in terms of how fast the revenue is growing, and then obviously, as we described in the narrative, it was that the overheads is not which would be like direct spending or inventory provisions or anything like that, is not growing at the same rate as the revenue growth. And that's where we're getting the near-term leverage. As we look out, obviously, we don't want to create an expectation that we're going to be able to grow at the same rate, but by the same token, we have established another floor level for what we expect sustainable gross margin to be.
+Joshua Buchalter -- Cowen and Company, LLC -- Analyst
+That's helpful. Thank you. And then, also on the model, I guess, you mentioned the consumer in console was a bit accelerated versus your normal seasonality. Can you remind us what you would expect the shape of the console business to look like in the second half and maybe just give us some clues on revenue growth by segment? Thank you.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Sure -- go ahead.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+I don't know if you call it normal. I don't -- I can't think of normal anymore, OK? Regarding to our console business, yes, we're in a lot of design and we're in the next design. Like, I mean, I think the business continues, like I mean, I think if you have a better judgment than us to what's the seasonality now. So, I'm puzzled.
+Bernie Blegen -- Vice President & Chief Financial Officer
+I think that Michael makes a very strong point there is that that we've had so many puts and takes and different lines of businesses that have been added that the rule of thumb is not as applicable as it might have been back in 2018 or 2019. What I would comment on it is that we believe that we are optimizing across all of our different end markets. And again, it's really the strength of the models in the diversification. And whereas a lot of the traditional seasonality would have been tied to consumer, for example, now we have a much higher percentage of our business that is tied to computing, automotive, and industrial, and they don't necessarily recognize the same level of seasonality. But then to sort of complete the question, I think if you look at the near-term growth, obviously, the current year's benefited significantly from automotive, and computing storage, in particular. And we believe that going forward, automotive along with communications should be our longer-term drivers.
+Joshua Buchalter -- Cowen and Company, LLC -- Analyst
+Understood. Thanks, guys.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Tore Svanberg of Stifel. Tore, your line is now open.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Yeah. Thank you. Just have a few follow-up questions. First of all, I have a question on your ASPs, which is obviously tied to your revenue growth. So, now that you are sort of growing in the 50% range, how much of that is units versus ASPs?
+Bernie Blegen -- Vice President & Chief Financial Officer
+Yeah, I would say if you look at last year and last year is representative of what we're doing in 2021, is of the 34.5% growth, 25% of that was tied to volume, 10% was tied to price. And I think when Michael talks about the solutions business, you're looking at previously selling an individual piece of silicon for $0.20 to $0.25, and now depending on the module, we can get between $1 to $3, and what we're looking to be able to do is design complete integrated solutions for different end applications where those will be able to achieve -- for -- the total cost of that solution can be somewhere between $60 to $100. So, if there is the ASP on the individual component but it’s more importantly it's having that attach rate with the total solution.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Very good. And talking about systems, how is your motor business doing? I know that's probably the highest ASP products you have. So how is that business going?
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+It's doing well there, but -- and the rest of the company is growing much faster. So that is still small. And you can't break out a percentage yet and then they end up, but I think there was a -- we were more -- have given more category of our product growths, OK, as we divide it into a more finer product line.
+[Speech Overlap] Yeah, we will give that number later, so, okay.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Sounds good, Michael. And last one, about a year ago, you talked about getting into the medical end market. Any updates there? I mean I know it's still probably very, very small as a percentage of revenue, but just trying to understand how fast your traction is in the medical end market.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, OK. We have our -- we have our product now. And that's -- well, there are several things there. We have the ultrasound. And the ultrasounds, we do generate revenue. We see the revenue amounts, and like I mean, the other one is the X-ray machines, OK? X-rays and we put -- we have -- we're evaluating the first silicons in -- from -- our design size for us. But we have some issue with the fab. And -- but that's a very minor issues, like I mean that we'll be able to solve that, no problems then. And it is outstanding. Thank you -- thank you for bringing it up, this. And the performance is there like five times to six times better than the existing solutions. So the image is a lot more cleaner now and we could deliver. And so, I think the customers are waiting and we're very excited.
+Bernie Blegen -- Vice President & Chief Financial Officer
+One other comment to add here is the technology that we're referring to here is related to our high-performance or precision analog [Speech Overlap] data converters. Yeah, right. And this has been something that we've been working on for I think about two-and-a-half years to three years now --
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Two-and-a-half years.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Two-and-a-half years. And I think what is really exciting is this is an incredible opportunity and we're very close to being able to declare that it's commercially viable in the market. So, it's not just the medical which is the first end-market that we're going after with this technology, but the other opportunities this opens up for us.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah, that's the same as same technologies, similar technology that we'll be able to use in the telecommunications side.
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+It sounds good. Congrats again on the stellar results. Thank you so much.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Thank you.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Kevin Garrigan of Rosenblatt. Kevin, your line is now open.
+Kevin Garrigan -- Rosenblatt Securities Inc. -- Analyst
+Hi, guys. Congrats on the quarter and thanks for taking my question. Just a quick one for me. I was wondering if you could tell us what percentage of your business or percentage of backlog is based on three-year newer products. I think last quarter, Bernie, you had said new products introduced in the last three years were about 37% of sales. So, was just kind of wondering if this was in the same range this quarter?
+Bernie Blegen -- Vice President & Chief Financial Officer
+Yeah. The reason that we used that step on sort of a one-time basis was to really give a order of magnitude to just how dynamic this new product introduction is as a component to our growth. So, right now, obviously, in such a short one-quarter term, it hasn't changed a whole lot, up or down. But it's really not something that we want to be reporting on an ongoing basis.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Yeah. I think that the last time we reported, is that 37%?
+Bernie Blegen -- Vice President & Chief Financial Officer
+Yeah.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+I actually went back to look at it and was that, we actually cannibalize our -- ourself. And I think that's a better way to, again, rather than other big guys they eat us alive, OK? And I think so we cannibalize are quite a bit. And again, I think it is somewhere is the 10% range. Okay? All these new product, we cannibalize it. And that's why the numbers so height [Phonetic].
+Bernie Blegen -- Vice President & Chief Financial Officer
+Yeah. But I would say that when there is cannibalization involved, you can bet that from market share gains against our peer companies that that's really the leverageable part of the story.
+Kevin Garrigan -- Rosenblatt Securities Inc. -- Analyst
+Got it. That's helpful. Thanks, guys.
+Bernie Blegen -- Vice President & Chief Financial Officer
+Thank you.
+Genevieve Cunningham -- Marketing Communications Manager
+Our next question is from Quinn Bolton of Needham. Quinn, your line is now open.
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Hey, guys. Just wanted to follow up on Josh's question on gross margins. I know in the near term, better overhead absorption is driving the better margins. But if you guys have access to capacity and most of your competitors constrained, I'm wondering, is there any room for you to get a little bit more to raise pricing in certain segments to take advantage of that capacity support? Or will you just continue to kind of put your foot on the pedal and try to drive as much revenue through that additional capacity to support rather than trying to do it through pricing?
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Well, yeah. MPS is still a smaller -- has the smallest analog semiconductor business. And we -- OK -- and at the same times, we want to have delivered a consistent result. And so, now, you see the margin even in the -- in this period, we don't fluctuate a lot. And because we don't -- we just pass on our cost to our customers. And we don't randomly just raise because we can -- now the shortage, we can gouge in on price. Okay? And then, that will affect the long-term relationship with our customers. And so, we'll just maintain that and maintain our margins. Okay? I think is a -- this strategy fits everything, fits for us. Yeah.
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Got it. Thank you.
+Genevieve Cunningham -- Marketing Communications Manager
+[Operator Instructions] As there are no further questions, I would now like to turn the webinar back over to Bernie.
+Bernie Blegen -- Vice President & Chief Financial Officer
+I'd like to thank you all for joining us for this webinar and look forward to talking with you again during our third quarter webinar which will likely be at the end of October. Thank you and have a nice day.
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Have a nice day.
+Duration: 48 minutes
+Call participants:
+Genevieve Cunningham -- Marketing Communications Manager
+Bernie Blegen -- Vice President & Chief Financial Officer
+Michael R. Hsing -- Founder, Chairman, President & Chief Executive Officer
+Tore Svanberg -- Stifel, Nicolaus & Company, Incorporated -- Analyst
+Quinn Bolton -- Needham & Company, LLC -- Analyst
+Rick Schafer -- Oppenheimer & Co. Inc. -- Analyst
+William Stein -- Truist Securities, Inc. -- Analyst
+Joshua Buchalter -- Cowen and Company, LLC -- Analyst
+Kevin Garrigan -- Rosenblatt Securities Inc. -- Analyst
+More MPWR analysis
+All earnings call transcripts
+  
